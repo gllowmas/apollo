@@ -1,6 +1,6 @@
 # Apollo
 
-A new project by glowmaster.
+A new project by Griffin Lowmaster.
 
 ## Getting Started
 
